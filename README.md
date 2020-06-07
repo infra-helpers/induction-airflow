@@ -33,6 +33,7 @@ cluster.
   * [Endpoints](#endpoints)
 - [Table of Content (ToC)](#table-of-content--toc-)
 - [References](#references)
+- [Configuration](#configuration)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -41,4 +42,7 @@ cluster.
 * [Setup of a Proxmox host](https://github.com/cloud-helpers/kubernetes-hard-way-bare-metal/blob/master/proxmox/README.md)
 * [Setup of LXC containers on Proxmox](https://github.com/cloud-helpers/kubernetes-hard-way-bare-metal/blob/master/lxc/README.md)
 * [Induction to Monitoring with Elasticsearch (ES), Kibana and Kafka](https://github.com/infra-helpers/induction-monitoring)
+
+# Configuration
+* See [`airflow/`](airflow/)
 
