@@ -1,7 +1,7 @@
 Induction to Workflow Engines - Airflow
 =======================================
 
-[![Canyon, by Patrick Hendry on Unsplash](../img/patrick-hendry-Nijc2oQz10I-unsplash-small.jpg)](https://unsplash.com/photos/Nijc2oQz10I)
+[![Canyon, by Patrick Hendry on Unsplash](img/patrick-hendry-Nijc2oQz10I-unsplash-small.jpg)](https://unsplash.com/photos/Nijc2oQz10I)
 
 # Overview
 [That repository](https://github.com/infra-helpers/induction-airflow)
